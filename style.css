@@ -1,4 +1,9 @@
 h1{
-    font-size: 100px;
+    font-size: 11px;
+    background-color: yellow;
     color: green;
+}
+p{
+    color: red;
+    font-size: 14px;
 }
